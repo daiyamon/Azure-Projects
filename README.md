@@ -22,7 +22,7 @@ Why Azure?
 I'm drawn to Azure because of its comprehensive set of services, scalability, and integration capabilities. I believe that mastering Azure will not only enhance my career prospects but also enable me to contribute effectively to cloud-based projects and initiatives.
 First Project Idea
 
-As part of my learning journey, my first project idea involves implementing a front-end website that simplifies user onboarding into Azure Active Directory (Azure AD). The site will guide users through the process of setting up Multi-Factor Authentication (MFA) and provide them with a temporary link to access specific data stored in Azure. This project will not only reinforce my understanding of Azure AD and security best practices but also demonstrate my ability to create practical solutions that streamline user experiences in the cloud.
+As part of my learning journey, my first project idea involves implementing a front-end website that simplifies user onboarding into Microsoft Entra ID previously Azure Active Directory (Azure AD). The site will guide users through the process of setting up Multi-Factor Authentication (MFA) and provide them with a temporary link to access specific data stored in Azure. This project will not only reinforce my understanding of Azure AD and security best practices but also demonstrate my ability to create practical solutions that streamline user experiences in the cloud.
 Conclusion
 
 Join me on this exciting journey as I document my progress, share insights, and overcome challenges along the way. Together, let's explore the vast world of Azure and unlock new opportunities in cloud computing!
